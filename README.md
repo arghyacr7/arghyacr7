@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=142d4c,284b63,3c6e71&height=300&section=header&text=Arghya&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Dev%20%26%20Full-Stack%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=142d4c,284b63,3c6e71&height=300&section=header&text=Arghya&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Dev%20and%20Full-Stack%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Arghya;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9💻;Building+the+Future+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Arghya;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+the+Future+with+Code" alt="Typing SVG" />
   </a>
 </div>
 
