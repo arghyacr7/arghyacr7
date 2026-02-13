@@ -1,62 +1,68 @@
-# Hi there, I'm Arghya! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=142d4c,284b63,3c6e71&height=300&section=header&text=Arghya&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Dev%20%26%20Full-Stack%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Banner" />
+</div>
 
-I'm a passionate developer interested in **AI/ML, Full-Stack Development, and DevOps**. I love building intelligent agents, interactive web applications, and exploring the latest in Deep Learning.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Arghya;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9💻;Building+the+Future+with+Code" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <h3><i>Turning Coffee into Code & Data into Insights</i></h3>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyacr7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghyacr7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Flask, Node.js
-- **AI/ML:** TensorFlow, Keras, NLP, Local LLMs
-- **DevOps & Tools:** Docker, Git, CI/CD
+</div>
+
+---
+
+### 🛠️ Tech Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,flask,nodejs,tensorflow,pytorch,docker,git,linux,vscode&perline=10" />
+  </a>
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are some of the projects I'm currently working on:
-
-#### 🛍️ [urban-style-chatbot](https://github.com/arghyacr7/urban-style-chatbot)
-*E-Commerce Chatbot using React, Tailwind, Flask, and Python NLP.*
-- An intelligent assistant for e-commerce, capable of handling customer queries and product recommendations.
-- Built with a modern tech stack bridging frontend interactivity with backend NLP logic.
-
-#### 🍎 [Fruit-Classifier](https://github.com/arghyacr7/Fruit-Classifier)
-*Deep Learning Model for Fruit Classification.*
-- Leverages Transfer Learning with **MobileNetV2** (TensorFlow/Keras).
-- Supports real-time predictions on images with high accuracy.
-
-#### 📈 [arghya-binance-bot](https://github.com/arghyacr7/arghya-binance-bot)
-*CLI-based Trading Bot.*
-- Automated trading bot for Binance Futures.
-- Designed for algorithmic trading enthusiasts.
-
-#### 🍰 [sugar_and_soul](https://github.com/arghyacr7/suger_and_soul)
-*Cloud Kitchen Website.*
-- A dynamic **React/Next.js** application for a cloud kitchen.
-- Features dynamic product modals, pound-based pricing, and direct WhatsApp ordering.
-
-#### 🤖 [ai-agents-from-scratch](https://github.com/arghyacr7/ai-agents-from-scratch)
-*Building AI Agents from First Principles.*
-- Demystifying AI agents by building them without black-box frameworks.
-- Focus on Local LLMs, function calling, memory, and ReAct patterns.
-- *(Forked from pguso/ai-agents-from-scratch)*
-
-#### ♾️ [DevOps](https://github.com/arghyacr7/DevOps)
-*DevOps Community Resources.*
-- A collection of resources for learning and exploring DevOps/SRE with help from experienced professionals.
-- *(Forked from rohitg00/DevOpsCommunity)*
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛍️ [Urban Style Chatbot](https://github.com/arghyacr7/urban-style-chatbot)** | Intelligent e-commerce assistant for product recommendations. | `React` `Flask` `NLP` |
+| **🍎 [Fruit Classifier](https://github.com/arghyacr7/Fruit-Classifier)** | Real-time fruit classification using Transfer Learning (MobileNetV2). | `TensorFlow` `Keras` `OpenCV` |
+| **📈 [Binance Bot](https://github.com/arghyacr7/arghya-binance-bot)** | CLI-based automated trading bot for Binance Futures. | `Python` `Binance API` |
+| **🍰 [Sugar & Soul](https://github.com/arghyacr7/suger_and_soul)** | Dynamic Cloud Kitchen website with pound-based pricing. | `Next.js` `React` `Tailwind` |
+| **🤖 [AI Agents](https://github.com/arghyacr7/ai-agents-from-scratch)** | Building AI Agents from first principles (Local LLMs, ReAct). | `Python` `LLMs` |
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
-- 💼 [LinkedIn](#)
-- 🐦 [Twitter](#)
-- 📧 [Email](#)
+<div align="center">
 
-<!--
-**arghyacr7/arghyacr7** is a ✨ _special_ ✨ repository that you can use to add a README to your GitHub profile.
--->
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arghyacr7&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
